@@ -1,0 +1,13 @@
+{
+    "translation": {
+        "homePage": {
+            "noMoreData": "Şu anda başka blog yok"
+        },
+        "blogDetail": {
+            "headerTitle": "İçerik"
+        },
+        "cardComponent": {
+            "totalReadingTime": "Toplam Okuma Süresi: "
+        }
+    }
+}
